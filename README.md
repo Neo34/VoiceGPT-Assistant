@@ -101,5 +101,5 @@ Projeto desenvolvido para fins educacionais e para compor portfólio profissiona
 
 ## 👨‍💻 Autor
 
-Desenvolvido por você 🚀
+Desenvolvido por César Constanzo 🚀
 
